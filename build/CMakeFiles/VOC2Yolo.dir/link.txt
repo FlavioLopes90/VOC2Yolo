@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/VOC2Yolo.dir/main.cpp.o  -o VOC2Yolo -rdynamic 
