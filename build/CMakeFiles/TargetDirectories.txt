@@ -1,3 +1,0 @@
-/home/flaviolopes/ProzisX/Frig/VOC2Yolo/build/CMakeFiles/edit_cache.dir
-/home/flaviolopes/ProzisX/Frig/VOC2Yolo/build/CMakeFiles/rebuild_cache.dir
-/home/flaviolopes/ProzisX/Frig/VOC2Yolo/build/CMakeFiles/VOC2Yolo.dir
