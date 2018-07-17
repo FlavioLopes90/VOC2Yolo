@@ -2,5 +2,6 @@
 <<<<<<< HEAD
 =======
 Convert VOC label annotations to YOLO labels.
->>>>>>> 3c054758fd755eeb455bd28c231f780f6add3f30
+>>>
+You need declare the PATH's to Images and VOC annotations and the PATH's for the outputYOLO files.
 # VOC2Yolo

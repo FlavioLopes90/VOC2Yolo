@@ -1,3 +1,2 @@
-# Compiled Object files
-*.user
-build/*
+*.user*
+*/build/*

@@ -10,10 +10,10 @@ using namespace std;
 
 
 
-#define path_images "/newdataset/pictures/"
-#define path_labels_voc "newdataset/labels/"
-#define objnames_voc "newdataset/labelmap.pbtxt"
-#define objnames "/newdataset/obj.names"
+#define path_images "/newdataset/pictures/"            // ------------- Dataset images. The *.txt annoations file will be stored in this folder
+#define path_labels_voc "newdataset/labels/"           // ------------- Annotations VOC files *.xml
+#define objnames_voc "newdataset/labelmap.pbtxt"       // ------------- Files with labels with VOC format
+#define objnames "/newdataset/obj.names"               // ------------- Output File with labels with YOLO format
 
 
 
@@ -69,7 +69,6 @@ int main()
 
 
                 }
-                //cout << "FUCK YEAH!!" << endl;
             }
 
 

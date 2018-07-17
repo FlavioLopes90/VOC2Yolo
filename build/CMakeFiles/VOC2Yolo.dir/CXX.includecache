@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/flaviolopes/ProzisX/Frig/VOC2Yolo/main.cpp
+iostream
+-
+fstream
+-
+dirent.h
+-
+stdio.h
+-
+string.h
+-
+vector
+-
+boost/algorithm/string/find.hpp
+-
+
